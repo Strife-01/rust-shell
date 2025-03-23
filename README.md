@@ -12,6 +12,16 @@ A simple shell implemented in Rust following the [Codecrafters Build Your Own Sh
 
 The goal is to provide a minimal yet functional shell that you can further extend or experiment with.
 
+## Built With
+
+This project is built using:
+
+- **Rust**  
+  ![Rust Logo](https://www.rust-lang.org/logos/rust-logo-512x512.png)
+
+- **Unix/Linux**  
+  ![Linux Logo](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png)
+
 ## Features
 
 - **Basic Command Parsing:** Tokenizes input strings and executes commands.
